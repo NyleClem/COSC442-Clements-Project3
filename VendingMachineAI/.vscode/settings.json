@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.referencedLibraries": [
+    "c:\\Users\\NyleC\\cosc442-clements-project3\\VendingMachine\\lib\\junit-platform-console-standalone-1.14.4.jar"
+  ]
+}
