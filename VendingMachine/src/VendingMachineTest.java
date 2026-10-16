@@ -51,11 +51,11 @@ public class VendingMachineTest {
         VendingMachine machine = new VendingMachine();
         VendingMachineItem firstItem = new VendingMachineItem("Chips", 1.50);
         VendingMachineItem secondItem = new VendingMachineItem("Candy", 2.00);
-        machine.addItem(firstItem, "A");
+        machine.addItem(firstItem, "C");
 
         // Act & Assert
         assertThrows(VendingMachineException.class,
-                () -> machine.addItem(secondItem, "A"));
+                () -> machine.addItem(secondItem, "C"));
     }
 
     @Test
