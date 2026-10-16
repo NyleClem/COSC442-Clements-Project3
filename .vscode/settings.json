@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": ["VendingMachine\\src"],
+  "java.project.referencedLibraries": [
+    "VendingMachine\\lib\\junit-platform-console-standalone-1.14.4.jar"
+  ]
+}
