@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.referencedLibraries": [
+    "c:\\Users\\NyleC\\cosc442-clements-project3\\VendingMachine\\lib\\junit-platform-console-standalone-1.14.4.jar",
+    "c:\\Users\\NyleC\\cosc442-clements-project3\\JoshHack\\libs\\hamcrest-core-1.3.jar",
+    "c:\\Users\\NyleC\\cosc442-clements-project3\\JoshHack\\libs\\asciiPanel.jar"
+  ]
+}
